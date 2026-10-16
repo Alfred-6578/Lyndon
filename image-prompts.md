@@ -147,6 +147,21 @@ Make these look like **phone photos**. Swap the style suffix for: *"casual smart
 
 > **26:** Exterior of a modern bungalow-style experience centre in a gated estate in Ajah, Lagos: neat lawn, a glass entrance, a slim illuminated name panel by the door, a parked SUV.
 
+## 27. Wrought iron railings
+**File:** `railing-iron.jpg` *(new slot)* · **Ratio:** 4:3 · **Used on:** Projects grid (Railings), finishes page
+
+> Wrought iron balcony railing on the first floor of a newly finished duplex in Enugu. Matte black hand-forged balusters with simple scroll details and a flat iron top rail, set into a cream-painted concrete balcony edge. Behind it, sliding aluminium windows and a split AC unit on the wall. Late-morning daylight, soft shadows of the railing pattern across the balcony tiles. Slight paint wear on one scroll, a dusty corner.
+
+## 28. Stainless handrails
+**File:** `railing-stainless.jpg` *(new slot)* · **Ratio:** 4:3 · **Used on:** Projects grid (Railings), finishes page
+
+> Internal staircase in a modern home in Ajah, Lagos. Brushed stainless steel handrail with round posts and horizontal stainless rods, running up a staircase with light-grey porcelain step tiles and a dark nosing strip. White painted wall on the other side with a single wall light. Daylight from a window at the top landing, soft reflections along the steel. Shot from the bottom step looking up at an angle.
+
+## 29. Frameless glass railings
+**File:** `railing-glass.jpg` *(new slot)* · **Ratio:** 4:3 · **Used on:** Projects grid (Railings), finishes page, "Railings & handrails" card on Home and What we do
+
+> Frameless tempered glass balustrade along the first-floor landing of a Lekki duplex, overlooking a double-height living room. Clear glass panels held in a slim brushed-aluminium base channel, with a thin stainless top cap. Below: a beige sofa, large-format marble-look floor tiles, a pendant chandelier. Evening light, warm cove lighting in the POP ceiling, faint fingerprint marks visible on one glass panel.
+
 ---
 
 ## Quick checklist
@@ -175,5 +190,8 @@ Make these look like **phone photos**. Swap the style suffix for: *"casual smart
 | 22 | smart-security.jpg | new slot |
 | 23 | team.jpg | new slot (mockup only) |
 | 24–26 | store-ogidi / gallery-ogidi / centre-lagos.jpg | new slots (mockup only) |
+| 27 | railing-iron.jpg | new slot |
+| 28 | railing-stainless.jpg | new slot |
+| 29 | railing-glass.jpg | new slot |
 
 The branded reception (`reception.jpg`, used in the projects grid and interiors gallery) can reuse #1: save a 3:4 crop of it as `reception.jpg`.
