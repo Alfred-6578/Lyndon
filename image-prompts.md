@@ -190,8 +190,8 @@ Make these look like **phone photos**. Swap the style suffix for: *"casual smart
 | 22 | smart-security.jpg | new slot |
 | 23 | team.jpg | new slot (mockup only) |
 | 24–26 | store-ogidi / gallery-ogidi / centre-lagos.jpg | new slots (mockup only) |
-| 27 | railing-iron.jpg | new slot |
-| 28 | railing-stainless.jpg | new slot |
-| 29 | railing-glass.jpg | new slot |
+| 27 | railing-iron.jpg | added |
+| 28 | railing-stainless.jpg | added |
+| 29 | railing-glass.jpg | added |
 
 The branded reception (`reception.jpg`, used in the projects grid and interiors gallery) can reuse #1: save a 3:4 crop of it as `reception.jpg`.
